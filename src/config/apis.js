@@ -1,0 +1,17 @@
+export default {
+    // baseUrl: 'http://localhost:4000/api/',
+    baseUrl: 'http://baseURL/api/',
+    login: 'login',
+    register: 'register',
+    forgotPassword: 'forgot-password',
+    socialAuth: 'social-auth',
+    uploadImage: 'upload/image',
+    uploadVideo: 'upload/video',
+    story: 'story',
+    stories: 'stories',
+    storyPart: 'storyPart',
+    users: 'users',
+    myInfo: 'users/my',
+    categories: 'categories',
+    search: 'search',
+};

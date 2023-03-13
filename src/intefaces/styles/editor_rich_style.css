@@ -1,0 +1,82 @@
+.RichEditor-editor {
+    cursor: text;
+    font-size: 16px;
+    padding: 10px;
+    height: 200px;
+    overflow: auto;
+  }
+  
+  .DraftEditor-editorContainer {
+    position: relative;
+  }
+  
+  .public-DraftEditorPlaceholder-root {
+    position: absolute;
+  }
+  
+  .public-DraftEditorPlaceholder-inner {
+    color: #ccc;
+  }
+  
+  .DraftEditor-root {
+    height: unset !important;
+  }
+  
+  .RichEditor-hidePlaceholder
+    .DraftEditor-root
+    .public-DraftEditorPlaceholder-root {
+    display: none;
+  }
+  
+  .align-right div {
+    text-align: right;
+  }
+  .align-center div {
+    text-align: center;
+  }
+  .align-left div {
+    text-align: left;
+  }
+
+  .align-justify div {
+    text-align: justify;
+  }
+
+  /* .align-justify div:after {
+    content: "";
+    display: inline-block;
+    width: 100%;
+  } */
+
+  .e8k2yoa {
+    margin: 0;
+    padding: 0;
+    width: 1em !important;
+    height: 1em !important;
+    line-height: 1.2em;
+    font-size: 1.5em;
+    color: #888;
+    background: #fff;
+    border: none !important;
+    border-radius: 1.5em;
+    cursor: pointer;
+    margin-top: 0.2em !important;
+}
+
+.e13wqaj6 {
+  margin: 0;
+  padding: 0;
+  width: 1em !important;
+  height: 1em !important;
+  box-sizing: border-box;
+  line-height: 1.2em;
+  font-size: 1.5em;
+  color: #888;
+  background: #fff;
+  border: none !important;
+  border-radius: 1.5em;
+  cursor: pointer;
+  background: #ededed;
+  margin-top: 0.2em !important;
+}
+  

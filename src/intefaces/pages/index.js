@@ -1,0 +1,16 @@
+export { default as LoginPage } from './auth/login_page';
+export { default as RegisterPage } from './auth/register_page';
+export { default as ForgotPasswordPage } from './auth/forgot_password_page';
+export { default as NewStoryPage } from './my_stories/new_story';
+export { default as EditStoryPage } from './my_stories/edit_story';
+export { default as WritePage } from './my_stories/write_part';
+export { default as MyStoriesPage } from './my_stories/my_stories';
+export { default as HomePage } from './home_page';
+export { default as SearchPage } from './search_page';
+export { default as UserPage } from './user_page';
+export { default as CategoryStoriesPage } from './stories/category_stories';
+export { default as TagsStoriesPage } from './stories/tags_stories';
+export { default as StoryPage } from './stories/story';
+export { default as StoryPartPage } from './stories/story_part';
+export { default as ProfileEditPage } from './profile/profile_edit_page';
+export { default as ProfilePasswordPage } from './profile/profile_password_page';
